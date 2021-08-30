@@ -1,4 +1,4 @@
 **Example**
 
 
-![rest-api](pic/example01)
+![rest-api](pic/example01.PNG)
